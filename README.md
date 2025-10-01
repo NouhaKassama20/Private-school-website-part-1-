@@ -1,2 +1,3 @@
-Private school web site
+Private school web site from its frontend side only
+
 
